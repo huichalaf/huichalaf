@@ -1,8 +1,29 @@
 ### Hi there 👋
 
+# About Me
+
+Hello there! I'm Pablo, a passionate software engineer and entrepreneur. I spend my days crafting innovative software and exploring various side hustles. I'm also the founder of AidToGrow, a software company focused on AI and SaaS.
+
+I am currently a student at UTFSM.
+
+## Interests
+
+- Software Development 🚀
+- Side Hustles 💼
+- AI and Machine Learning 🤖
+- Futuristic Technologies 🌟
+- Cybersecurity 🔒
+
+I can talk for hours about software, computers, politics, and the exciting possibilities the future holds. Let's connect and chat about our shared interests!
+
+## Get in Touch
+
+📧 Email: pablo.huichalaf@usm.cl || pablo.huichalaf@aidtogrow.com
+🌐 Website of my company: aidtogrow.com
+📱 LinkedIn: https://www.linkedin.com/in/pablo-iv%C3%A1n-huichalaf-cuadra-7a7302295/
+
 <!--
 **huichalaf/huichalaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
