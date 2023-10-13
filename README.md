@@ -10,16 +10,15 @@ I am currently a student at UTFSM.
 
 - Software Development 🚀
 - Side Hustles 💼
-- AI and Machine Learning 🤖
-- Futuristic Technologies 🌟
-- Cybersecurity 🔒
+- AI, Machine Learning and Robotics 🤖
+- Web development 🌐
 
 I can talk for hours about software, computers, politics, and the exciting possibilities the future holds. Let's connect and chat about our shared interests!
 
 ## Get in Touch
 
 📧 Email: pablo.huichalaf@usm.cl || pablo.huichalaf@aidtogrow.com
-🌐 Website of my company: aidtogrow.com
+🌐 Website of my company: https://www.aidtogrow.com
 📱 LinkedIn: https://www.linkedin.com/in/pablo-iv%C3%A1n-huichalaf-cuadra-7a7302295/
 
 <!--
