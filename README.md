@@ -13,7 +13,7 @@ I am currently a student at UTFSM.
 - AI, Machine Learning and Robotics 🤖
 - Web development 🌐
 
-I can talk for hours about software, computers, politics, and the exciting possibilities the future holds. Let's connect and chat about our shared interests!
+I can talk for hours about software, robotics, computers, politics, economics and the exciting possibilities the future holds.
 
 ## Get in Touch
 
