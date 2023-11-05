@@ -12,6 +12,7 @@ I am currently a student at UTFSM.
 - Side Hustles 💼
 - AI, Machine Learning and Robotics 🤖
 - Web development 🌐
+- The Future and Present of Education 📚
 
 I can talk for hours about software, robotics, computers, politics, economics and the exciting possibilities the future holds.
 
