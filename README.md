@@ -29,6 +29,8 @@ I can talk for hours about software, robotics, computers, politics, economics an
 ### Web Development
 #### Front-end
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 #### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -57,7 +59,8 @@ I can talk for hours about software, robotics, computers, politics, economics an
 
 📧 Email: pablo.huichalaf@usm.cl || pablo.huichalaf@aidtogrow.com
 🌐 Website of my company: https://www.aidtogrow.com
-📱 LinkedIn: https://www.linkedin.com/in/pablo-iv%C3%A1n-huichalaf-cuadra-7a7302295/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario-de-linkedin](https://www.linkedin.com/in/pablo-iv%C3%A1n-huichalaf-cuadra-7a7302295/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pablo_huichalaf)
 <!--
 **huichalaf/huichalaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
