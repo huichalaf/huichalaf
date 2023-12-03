@@ -60,7 +60,7 @@ I can talk for hours about software, robotics, computers, politics, economics an
 📧 Email: pablo.huichalaf@usm.cl || pablo.huichalaf@aidtogrow.com
 🌐 Website of my company: https://www.aidtogrow.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pablo-iv%C3%A1n-huichalaf-cuadra-7a7302295/]))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-iv%C3%A1n-huichalaf-cuadra-7a7302295/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pablo_huichalaf)
 <!--
 **huichalaf/huichalaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
