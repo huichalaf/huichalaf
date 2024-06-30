@@ -2,9 +2,7 @@
 
 # About Me
 
-Hello there! I'm Pablo, a passionate software engineer and entrepreneur. I spend my days crafting innovative software and exploring various side hustles. I'm also the founder of AIdtogrow, a software company focused on AI and SaaS.
-
-I am currently a student at UTFSM.
+Hello there! I'm Pablo, a passionate software engineer and entrepreneur. I spend my days crafting innovative software and exploring various side hustles. I'm also the founder of Aidtogrow, a software company focused on Inteligence and Automation Technologies.
 
 ## Interests
 
